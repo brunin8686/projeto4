@@ -1,0 +1,25 @@
+*{
+
+}
+
+.titulo {
+    background-color: orange;
+    color: mediumorchid;
+    font-size: 32px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.texto {
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+    text-align: justify;
+    padding: 0px 0px 0 0;
+    margin: 2px 2px 0px 0px;
+
+
+}
